@@ -1,0 +1,6 @@
+Mods: {
+	HellRework: {
+		Projectiles.FlamarangExplosion.DisplayName: Flamarang Explosion
+		NewItemDescriptions.Flamarang: Explodes on contact with enemies
+	}
+}
